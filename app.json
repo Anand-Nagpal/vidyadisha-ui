@@ -1,0 +1,12 @@
+{
+  "name": "vidyadisha-ui",
+  "displayName": "vidyadisha-ui",
+  "expo": {
+    "name": "vidyadisha-ui",
+    "slug": "vidyadisha-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
